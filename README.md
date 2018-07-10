@@ -1,8 +1,8 @@
 # devops-tools
 
 ## SCM
-[Github](https://github.com/)
-[Git](https://git-scm.com/)
+[Github](https://github.com/)\
+[Git](https://git-scm.com/)\
 [Bitbucket](https://bitbucket.org/)
 [Gitlab](https://gitlab.com/)
 [Subversion](https://subversion.apache.org/)
