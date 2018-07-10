@@ -3,26 +3,24 @@
 ## SCM
 [Github](https://github.com/)\
 [Git](https://git-scm.com/)\
-[Bitbucket](https://bitbucket.org/)
-[Gitlab](https://gitlab.com/)
-[Subversion](https://subversion.apache.org/)
-[Mercurial](https://www.mercurial-scm.org/)
-[ISPW](https://compuware.com/ispw-source-code-management/)
+[Bitbucket](https://bitbucket.org/)\
+[Gitlab](https://gitlab.com/)\
+[Subversion](https://subversion.apache.org/)\
+[Mercurial](https://www.mercurial-scm.org/)\
+[ISPW](https://compuware.com/ispw-source-code-management/)\
 
 ## CI
-
-Jenkins
-Bamboo
-Travis CI
-Codeship
-Visual Studio
-CircleCI
-TeamCity
-Shippable
-CruiseControl
-Continuum
-Continua CI
-Solano CI
+[Jenkins](https://jenkins.io/)\
+[Bamboo](https://fr.atlassian.com/software/bamboo)\
+[Travis CI](https://travis-ci.org/)\
+[Codeship](https://codeship.com/)\
+[Visual Studio](https://visualstudio.microsoft.com/fr/team-services/continuous-integration/)\
+[CircleCI](https://circleci.com/)\
+[TeamCity](https://www.jetbrains.com/teamcity/)\
+[Shippable](www.shippable.com/)\
+[CruiseControl](cruisecontrol.sourceforge.net/)\
+[Continua CI](https://www.finalbuilder.com/continua-ci)\
+[Solano CI](https://ci.solanolabs.com/)\
 
 ## Deployment
 
