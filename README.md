@@ -7,7 +7,7 @@
 [Gitlab](https://gitlab.com/)\
 [Subversion](https://subversion.apache.org/)\
 [Mercurial](https://www.mercurial-scm.org/)\
-[ISPW](https://compuware.com/ispw-source-code-management/)\
+[ISPW](https://compuware.com/ispw-source-code-management/)
 
 ## CI
 [Jenkins](https://jenkins.io/)\
@@ -20,7 +20,7 @@
 [Shippable](www.shippable.com/)\
 [CruiseControl](cruisecontrol.sourceforge.net/)\
 [Continua CI](https://www.finalbuilder.com/continua-ci)\
-[Solano CI](https://ci.solanolabs.com/)\
+[Solano CI](https://ci.solanolabs.com/)
 
 ## Deployment
 
