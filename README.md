@@ -1,16 +1,13 @@
 # devops-tools
 
 ## SCM
-
-* [Scaling to 100M: MySQL is a Better NoSQL](http://blog.wix.engineering/2015/12/10/scaling-to-100m-mysql-is-a-better-nosql/)
-
-* [Github](https://github.com/)
-* [Git](https://git-scm.com/)
-* [Bitbucket](https://bitbucket.org/)
-* [Gitlab](https://gitlab.com/)
-* [Subversion](https://subversion.apache.org/)
-* [Mercurial](https://www.mercurial-scm.org/)
-* [ISPW](https://compuware.com/ispw-source-code-management/)
+[Github](https://github.com/)
+[Git](https://git-scm.com/)
+[Bitbucket](https://bitbucket.org/)
+[Gitlab](https://gitlab.com/)
+[Subversion](https://subversion.apache.org/)
+[Mercurial](https://www.mercurial-scm.org/)
+[ISPW](https://compuware.com/ispw-source-code-management/)
 
 ## CI
 
