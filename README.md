@@ -24,20 +24,17 @@
 
 ## Deployment
 
-Otto
-Deployment Manager
-SmartFrog
-Capistrano
-JuJu
-Rundeck
-RapidDeploy
-CodeDeploy
-Octopus Deploy
-CA Nolio
-XL Deploy
-ElasticBox
-Deploybot
-UrbanCode Deploy
+[Deployment Manager](https://cloud.google.com/deployment-manager/)\
+[Capistrano](https://capistranorb.com/)\
+[JuJu](https://jujucharms.com/)\
+[Rundeck](https://www.rundeck.com/open-source)\
+[RapidDeploy](RapidDeploy)\
+[CodeDeploy]()\
+[Octopus Deploy](https://aws.amazon.com/fr/codedeploy/)\
+[XL Deploy](https://xebialabs.com/products/xl-deploy/)\
+[ElasticBox](https://elasticbox.com/)\
+[Deploybot](https://deploybot.com/)\
+[UrbanCode Deploy](https://developer.ibm.com/urbancode/products/urbancode-deploy/)
 
 ## Cloud / IaaS / PaaS
 
