@@ -23,7 +23,6 @@
 [Solano CI](https://ci.solanolabs.com/)
 
 ## Deployment
-
 [Deployment Manager](https://cloud.google.com/deployment-manager/)\
 [Capistrano](https://capistranorb.com/)\
 [JuJu](https://jujucharms.com/)\
@@ -36,15 +35,14 @@
 [Deploybot](https://deploybot.com/)\
 [UrbanCode Deploy](https://developer.ibm.com/urbancode/products/urbancode-deploy/)
 
-## Cloud / IaaS / PaaS
-
-Amazon Web Services
-Azure
-Google Cloud Platform
-Rackspace
-OpenStack
-Heroku
-OpenShift
+## Cloud
+[Amazon Web Services](https://aws.amazon.com/)\
+[Azure](https://azure.microsoft.com/)\
+[Google Cloud Platform]()\
+[Rackspace](https://cloud.google.com/)\
+[OpenStack](https://www.openstack.org/)\
+[Heroku](https://www.heroku.com/)\
+[OpenShift](https://www.openshift.com/)
 
 ## BI / Monitoring
 
